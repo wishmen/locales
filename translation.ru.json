@@ -1,4 +1,60 @@
 {
+  "general": {
+    "more_details_btn": "Подробнее",
+    "add_to_wish_btn": "Добавить в желание",
+    "share_btn": "Поделиться",
+    "hide_wish_btn": "Скрыть мои желания",
+    "delete_from_friends_btn": "Удалить из друзей",
+    "friends_text": "Друзья",
+    "my_friends_text": "Мои друзья",
+    "wishes_text": "Желания",
+    "wish_text": "желание",
+    "go_back_link": "Вернуться назад",
+    "edit_text": "Редактировать",
+    "cancel_text": "Отменить",
+    "accept_text": "Принять",
+    "decline_text": "Отклонить",
+    "to_friend_text": "В друзья",
+    "its_you": "Это вы",
+    "already_in_friends": "У вас в друзьях",
+    "add_category_text": "Добавить категорию",
+    "main_wish_text": "Главное желание",
+    "to_support_text": "Поддержать",
+    "get_wish_text": "Получить желания",
+    "do_donate_text": "Сделать донат",
+    "delete_text": "Удалить",
+    "hide_text": "Скрыть",
+    "show_text": "Показать",
+    "more_text": "Ещё",
+    "short_edit_text": "Редак.",
+    "invite_text": "Пригласить",
+    "maybe_you_know": "Возможно вы их знаете",
+    "user_deleted_text": "Пользователь удален!",
+    "chars": {
+      "r": "р"
+    },
+    "friends_action": {
+      "request": {
+        "sended": "Заявка отправлена!",
+        "accepted": "Заявка принята!",
+        "declined": "Заявка отклонена!"
+      }
+    },
+    "empty_wishlist": {
+      "title": "Список желаний пуст",
+      "subtitle": {
+        "my_wishlist": "Добавьте свое первое желание",
+        "other_wishlist": "Пользователь ещё не добавил желание"
+      }
+    },
+    "wish_status": {
+      "full": "Средства собраны. Оформите желание.",
+      "order": "Заказ оформлен",
+      "delivered": "Желание исполнено",
+      "free": "Бесплатно",
+      "opened": "{{procent}}% из {{sum}} рублей"
+    }
+  },
   "header": {
     "links": {
       "shop": "Каталог",
@@ -57,6 +113,10 @@
     }
   },
   "main_page": {
+    "meta": {
+      "title": "Wishmen — единый список желаний. Создай вишлист подарков и собирай донаты",
+      "description": "Wishmen — сервис, который исполняет желания. Создай вишлист подарков, делись с друзьями, собирай донаты и исполняй мечты."
+    },
     "first_block": {
       "title": "Время исполнять желания",
       "subtitle": {
@@ -176,6 +236,11 @@
       "description": "— это готовые тематические идеи и рекомендации желаний для вас и подарков для ваших близких."
     }
   },
+  "collections_article_page": {
+    "collections": "Подборки",
+    "recommendations": "Рекомендации",
+    "back_link": "Назад к списку подборок"
+  },
   "shop_page": {
     "meta": {
       "title": "Каталог подарков Wishmen",
@@ -191,7 +256,7 @@
   "shop_category_page": {
     "meta": {
       "title": "в подарок на Wishmen",
-      "description": "- хочешь в подарок? Просто добавь это в свой вишлист на Wishmen, мы поможем тебе исполнить мечту."
+      "description": "в подарок! Создай свой список желаний на Wishmen и мы поможем получить всё бесплатно."
     },
     "all_products_title": "Все товары этой категории",
     "products_counter": "товаров и услуг",
@@ -201,6 +266,55 @@
       "price_desc": "По цене (по убыванию)",
       "name": "По названию (А-Я)",
       "name_desc": "По названию (Я-А)"
+    }
+  },
+  "product_page": {
+    "meta": {
+      "heading": "в подарок",
+      "title": "в подарок на Wishmen",
+      "description": "- хочешь в подарок? Просто добавь это в свой вишлист на Wishmen, мы поможем тебе исполнить мечту."
+    },
+    "guarantyAndDelivery": "Гарантии и доставка",
+    "description": "Описание",
+    "cost": "Стоимость",
+    "donates": "донатов",
+    "actual_price": "Актуальная цена на",
+    "pay_banner": {
+      "first_row": "Безопасная оплата: Apple Pay, Google Pay, Visa/Mastercard",
+      "second_row": "Гарантия возврата: от поставщика",
+      "third_row": "Доступна доставка курьером"
+    }
+  },
+  "public_profile_page": {
+    "meta": {
+      "heading": "Что хочет",
+      "title": "— список желаний на Wishmen",
+      "description": "Узнай что хочет {{name}} и помоги {{male}} приобрести желаемое. Вишлист подарков на сайте Wishmen."
+    }
+  },
+  "friends_page": {
+    "meta": {
+      "heading": "— друзья",
+      "title": "— друзья на Wishmen",
+      "description": "и список его друзей на сайте Wishmen — здесь исполняют желания."
+    },
+    "all_friends": "Все друзья",
+    "incoming": "Входящие",
+    "outcoming": "Исходящие",
+    "recommendation": "Рекомендации",
+    "find_friends_in_service": "Найдите друзей в сервисе",
+    "friends_text": "друзей",
+    "empty": {
+      "friends": "Пользователь еще не добавил друзей",
+      "incoming": "У вас нет входящих заявок",
+      "outcoming": "У вас нет исходящих заявок",
+      "recommendation": "У вас нет рекомендаций"
+    },
+    "search": {
+      "empty": {
+        "title": "К сожалению, {{val}} <br /> не найден в друзьях",
+        "subtitle": "Пригласите друга отправив личное<br />сообщение по вашей реферальной<br />ссылке и получайте бонусы.<br />"
+      }
     }
   }
 }
