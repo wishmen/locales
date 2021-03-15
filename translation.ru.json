@@ -4,6 +4,7 @@
     "add_to_wish_btn": "Добавить в желание",
     "share_btn": "Поделиться",
     "hide_wish_btn": "Скрыть мои желания",
+    "add_to_friends_btn": "Добавить в друзья",
     "delete_from_friends_btn": "Удалить из друзей",
     "friends_text": "Друзья",
     "my_friends_text": "Мои друзья",
@@ -153,7 +154,7 @@
       "title": "Партнерам",
       "all_partners": "Все партнеры",
       "presentation": "Презентация",
-      "join": "Подключиться"
+      "signIn": "Подключиться"
     },
     "my_wish": {
       "title": "Мои желания",
