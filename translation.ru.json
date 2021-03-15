@@ -130,7 +130,7 @@
       "donate_sum":"Введите размер доната",
       "card_number":"Введите номер карты",
       "card_name":"Имя владельца карты",
-      "validity":"Срок действия",
+      "validity":"Срок действия"
     },
     "order":{
       "your_order_is_processed":"Ваш заказ <br/> оформлен!",
@@ -152,7 +152,7 @@
       "service":"сервиса"
     },
     "pay_buttons":{
-      "card_pay":"Оплатить с карты",
+      "card_pay":"Оплатить с карты"
     }
   },
   "header": {
