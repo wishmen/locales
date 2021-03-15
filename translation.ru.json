@@ -23,6 +23,8 @@
     "to_support_text": "Поддержать",
     "get_wish_text": "Получить желания",
     "do_donate_text": "Сделать донат",
+    "congratulations_text":"Поздравляем!",
+    "order_is_processed":"Заказ оформлен!",
     "delete_text": "Удалить",
     "hide_text": "Скрыть",
     "show_text": "Показать",
@@ -58,6 +60,12 @@
     "mb_you_know_their": "Возможно,вы их знаете",
     "popular_peoples_text": "Популярные люди",
     "see_all_comments": "Смотреть все комментарии",
+    "see_all_comments_and_donates":"Смотреть все комментарии и донаты",
+    "more_about_the_product":"Подробнее о товаре в каталоге Wishmen",
+    "comments_text":"Комментарии",
+    "admission_to_wish":"Поступление на желание",
+    "reply_text":"Ответить",
+    "in_wish_text":"В желания",
     "input_comment_to_wish": "Введите комментарий к желанию",
     "wish_catalog": "Каталог желаний",
     "create_self_wishlist": "Создать свой список желаний",
@@ -66,10 +74,20 @@
     "submit_your_application": "Оставить заявку",
     "join_to_wishmen": "Подключиться к Wishmen",
     "or_text": "или",
+    "like_text":"Нравится",
+    "comments_and_history":"Комментарии и истории",
+    "send_donate_for":"Отправить донат для",
+    "send_sms_text":"Отправить смс",
+    "pay_method_text":"Метод оплаты",
+    "you_not_auth":"Вы не авторизованы!",
+    "tinkoff_sum_error":"Для оформления кредита сумма доната должна быть от 3000 до 200000 включительно",
+    "donate_with_card":"Оплата доната с карты",
     "chars": {
       "rub": "руб",
       "r": "р",
-      "big_r": "Р"
+      "big_r": "Р",
+      "rubbles":"рублей",
+      "of":"из"
     },
     "friends_action": {
       "request": {
@@ -99,6 +117,7 @@
     "about_text": "О себе",
     "site_text": "Сайт",
     "email_text": "Email",
+    "code":"код",
     "input": {
       "name": "Введите имя",
       "login": "Введите логин",
@@ -107,7 +126,33 @@
       "comment": "Введите комментарий",
       "site": "Введите сайт",
       "phone": "Введите телефон",
-      "email": "Введите почту"
+      "email": "Введите почту",
+      "donate_sum":"Введите размер доната",
+      "card_number":"Введите номер карты",
+      "card_name":"Имя владельца карты",
+      "validity":"Срок действия",
+    },
+    "order":{
+      "your_order_is_processed":"Ваш заказ <br/> оформлен!",
+      "order_is_processed":"Заказ <br/> оформлен!"
+    },
+    "wish":{
+      "your_wish_is_completed":"Ваше желание <br/> выполнено!",
+      "wish_is_completed":"Желание <br/> выполнено!"
+    },
+    "empty":{
+      "donates":"В данный момент у вас нет донатов"
+    },
+    "offerta":{
+      "i_got_acquainted":"Я ознакомился",
+      "with_rules_and_offerta":"с правилами и офертой",
+      "and_agree":"сервиса и полностью принимаю их",
+      "click_agree":"Нажимая кнопку, я подтверждаю, что принимаю",
+      "rules_and_offerta":"правила и оферту",
+      "service":"сервиса"
+    },
+    "pay_buttons":{
+      "card_pay":"Оплатить с карты",
     }
   },
   "header": {
@@ -631,5 +676,13 @@
       "title": "Остались вопросы?",
       "text": "Оставьте свои контактные данные <br />и мы ответим на них в ближайшее время"
     }
+  },
+  "city_mw":{
+    "select_in":"Выбор города в",
+    "russia":"России",
+    "prompt":"Другие страны будут доступны позднее",
+    "available_one":"Доступен 1 город",
+    "available_many":"Доступно всего {{count}} городов",
+    "input_city":"Введите ваш город"
   }
 }
