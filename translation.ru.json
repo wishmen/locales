@@ -13,6 +13,7 @@
     "go_back_link": "Вернуться назад",
     "edit_text": "Редактировать",
     "cancel_text": "Отменить",
+    "agree_text": "Подтвердить",
     "accept_text": "Принять",
     "decline_text": "Отклонить",
     "to_friend_text": "В друзья",
@@ -23,14 +24,14 @@
     "to_support_text": "Поддержать",
     "get_wish_text": "Получить желания",
     "do_donate_text": "Сделать донат",
-    "congratulations_text":"Поздравляем!",
-    "order_is_processed":"Заказ оформлен!",
+    "congratulations_text": "Поздравляем!",
+    "order_is_processed": "Заказ оформлен!",
     "delete_text": "Удалить",
     "hide_text": "Скрыть",
-    "hide_wish":"Скрыть желание",
-    "add_as_main_wish":"Добавить как главное желание",
-    "add_text":"Добавить",
-    "save_text":"Сохранить",
+    "hide_wish": "Скрыть желание",
+    "add_as_main_wish": "Добавить как главное желание",
+    "add_text": "Добавить",
+    "save_text": "Сохранить",
     "show_text": "Показать",
     "more_text": "Ещё",
     "short_edit_text": "Редак.",
@@ -40,7 +41,7 @@
     "phone": "Телефон",
     "online_chat": "Онлайн чат",
     "open_chat": "Открыть чат",
-    "open_wishlist":"Открыть список желаний",
+    "open_wishlist": "Открыть список желаний",
     "open_online_chat": "Открыть онлайн чат",
     "legal_adress": "Юридический адрес",
     "legal_adress_value": "428000, Чувашская республика, г. Чебоксары, ул. Ярославская, д. 64, п.6",
@@ -65,12 +66,12 @@
     "mb_you_know_their": "Возможно,вы их знаете",
     "popular_peoples_text": "Популярные люди",
     "see_all_comments": "Смотреть все комментарии",
-    "see_all_comments_and_donates":"Смотреть все комментарии и донаты",
-    "more_about_the_product":"Подробнее о товаре в каталоге Wishmen",
-    "comments_text":"Комментарии",
-    "admission_to_wish":"Поступление на желание",
-    "reply_text":"Ответить",
-    "in_wish_text":"В желания",
+    "see_all_comments_and_donates": "Смотреть все комментарии и донаты",
+    "more_about_the_product": "Подробнее о товаре в каталоге Wishmen",
+    "comments_text": "Комментарии",
+    "admission_to_wish": "Поступление на желание",
+    "reply_text": "Ответить",
+    "in_wish_text": "В желания",
     "input_comment_to_wish": "Введите комментарий к желанию",
     "wish_catalog": "Каталог желаний",
     "create_self_wishlist": "Создать свой список желаний",
@@ -79,24 +80,27 @@
     "submit_your_application": "Оставить заявку",
     "join_to_wishmen": "Подключиться к Wishmen",
     "or_text": "или",
-    "like_text":"Нравится",
-    "comments_and_history":"Комментарии и истории",
-    "send_donate_for":"Отправить донат для",
-    "send_sms_text":"Отправить смс",
-    "pay_method_text":"Метод оплаты",
-    "you_not_auth":"Вы не авторизованы!",
-    "tinkoff_sum_error":"Для оформления кредита сумма доната должна быть от 3000 до 200000 включительно",
-    "donate_with_card":"Оплата доната с карты",
-    "checkout_text":"Оформить заказ",
-    "products_text":"Товары",
-    "paid_text":"оплачено",
-    "okay_text":"Хорошо",
+    "like_text": "Нравится",
+    "comments_and_history": "Комментарии и истории",
+    "send_donate_for": "Отправить донат для",
+    "send_sms_text": "Отправить смс",
+    "pay_method_text": "Метод оплаты",
+    "you_not_auth": "Вы не авторизованы!",
+    "tinkoff_sum_error": "Для оформления кредита сумма доната должна быть от 3000 до 200000 включительно",
+    "donate_with_card": "Оплата доната с карты",
+    "checkout_text": "Оформить заказ",
+    "products_text": "Товары",
+    "paid_text": "оплачено",
+    "okay_text": "Хорошо",
+    "replace_text": "Перенести",
+    "wish_deleted_text": "Желание удалено!",
+    "category_deleted_text": "Категория удалена!",
     "chars": {
       "rub": "руб",
       "r": "р",
       "big_r": "Р",
-      "rubbles":"рублей",
-      "of":"из"
+      "rubbles": "рублей",
+      "of": "из"
     },
     "friends_action": {
       "request": {
@@ -126,11 +130,11 @@
     "about_text": "О себе",
     "site_text": "Сайт",
     "email_text": "Email",
-    "code":"код",
-    "delivery_text":"Доставка",
-    "further_text":"Далее",
-    "title_text":"Заголовок",
-    "category_text":"Категория",
+    "code": "код",
+    "delivery_text": "Доставка",
+    "further_text": "Далее",
+    "title_text": "Заголовок",
+    "category_text": "Категория",
     "input": {
       "name": "Введите имя",
       "login": "Введите логин",
@@ -140,35 +144,35 @@
       "site": "Введите сайт",
       "phone": "Введите телефон",
       "email": "Введите почту",
-      "donate_sum":"Введите размер доната",
-      "card_number":"Введите номер карты",
-      "card_name":"Имя владельца карты",
-      "validity":"Срок действия",
-      "fio":"Введите ФИО",
-      "adress":"Введите адрес",
-      "title":"Введите заголовок"
+      "donate_sum": "Введите размер доната",
+      "card_number": "Введите номер карты",
+      "card_name": "Имя владельца карты",
+      "validity": "Срок действия",
+      "fio": "Введите ФИО",
+      "adress": "Введите адрес",
+      "title": "Введите заголовок"
     },
-    "order":{
-      "your_order_is_processed":"Ваш заказ <br/> оформлен!",
-      "order_is_processed":"Заказ <br/> оформлен!"
+    "order": {
+      "your_order_is_processed": "Ваш заказ <br/> оформлен!",
+      "order_is_processed": "Заказ <br/> оформлен!"
     },
-    "wish":{
-      "your_wish_is_completed":"Ваше желание <br/> выполнено!",
-      "wish_is_completed":"Желание <br/> выполнено!"
+    "wish": {
+      "your_wish_is_completed": "Ваше желание <br/> выполнено!",
+      "wish_is_completed": "Желание <br/> выполнено!"
     },
-    "empty":{
-      "donates":"В данный момент у вас нет донатов"
+    "empty": {
+      "donates": "В данный момент у вас нет донатов"
     },
-    "offerta":{
-      "i_got_acquainted":"Я ознакомился",
-      "with_rules_and_offerta":"с правилами и офертой",
-      "and_agree":"сервиса и полностью принимаю их",
-      "click_agree":"Нажимая кнопку, я подтверждаю, что принимаю",
-      "rules_and_offerta":"правила и оферту",
-      "service":"сервиса"
+    "offerta": {
+      "i_got_acquainted": "Я ознакомился",
+      "with_rules_and_offerta": "с правилами и офертой",
+      "and_agree": "сервиса и полностью принимаю их",
+      "click_agree": "Нажимая кнопку, я подтверждаю, что принимаю",
+      "rules_and_offerta": "правила и оферту",
+      "service": "сервиса"
     },
-    "pay_buttons":{
-      "card_pay":"Оплатить с карты"
+    "pay_buttons": {
+      "card_pay": "Оплатить с карты"
     }
   },
   "header": {
@@ -693,36 +697,52 @@
       "text": "Оставьте свои контактные данные <br />и мы ответим на них в ближайшее время"
     }
   },
-  "city_mw":{
-    "select_in":"Выбор города в",
-    "russia":"России",
-    "prompt":"Другие страны будут доступны позднее",
-    "available_one":"Доступен 1 город",
-    "available_many":"Доступно всего {{count}} городов",
-    "input_city":"Введите ваш город"
+  "city_mw": {
+    "select_in": "Выбор города в",
+    "russia": "России",
+    "prompt": "Другие страны будут доступны позднее",
+    "available_one": "Доступен 1 город",
+    "available_many": "Доступно всего {{count}} городов",
+    "input_city": "Введите ваш город"
   },
-  "order_mw":{
-    "title":"Оформить заказ",
-    "your_fio":"Ваш ФИО",
-    "receiving_an_order":"Получение заказа",
-    "issuing_address":"Адрес выдачи",
-    "delivery_address":"Адрес доставки",
-    "your_comment":"Ваш комментарий"
+  "order_mw": {
+    "title": "Оформить заказ",
+    "your_fio": "Ваш ФИО",
+    "receiving_an_order": "Получение заказа",
+    "issuing_address": "Адрес выдачи",
+    "delivery_address": "Адрес доставки",
+    "your_comment": "Ваш комментарий"
   },
-  "edit_wish_mw":{
-    "edit_wish":"Редактировать желание",
-    "add_wish":"Добавить желание",
-    "wish_name":"Название желания",
-    "select_need_sum":"Выберите сумму сбора",
-    "select_sum":"Вы можете выбрать сумму, которую вам осталось <br /> собрать для достижения цели",
-    "for_what":"Для чего вам нужно это желание",
-    "cacheback_prompt":"Расскажите для чего<br />вам нужно желание и<br />получите + {{sum}} руб на его<br />исполнение",
-    "wish_added":{
-      "title":"Поздравляем, ваше желание <br />добавлено в список!",
-      "wish":"Желание",
-      "added":" успешно добавлено",
-      "in_category":"в категорию",
-      "my_wish":"Мои желания"
+  "edit_wish_mw": {
+    "edit_wish": "Редактировать желание",
+    "add_wish": "Добавить желание",
+    "wish_name": "Название желания",
+    "select_need_sum": "Выберите сумму сбора",
+    "select_sum": "Вы можете выбрать сумму, которую вам осталось <br /> собрать для достижения цели",
+    "for_what": "Для чего вам нужно это желание",
+    "cacheback_prompt": "Расскажите для чего<br />вам нужно желание и<br />получите + {{sum}} руб на его<br />исполнение",
+    "wish_added": {
+      "title": "Поздравляем, ваше желание <br />добавлено в список!",
+      "wish": "Желание",
+      "added": " успешно добавлено",
+      "in_category": "в категорию",
+      "my_wish": "Мои желания"
     }
+  },
+  "delete_wish_mw": {
+    "title": "Вы уверены, что хотите удалить желание?",
+    "cant_delete_title": "Вы не можете удалить желание",
+    "wish_ordered": "К сожалению, вы хотите удалить желание, которое уже оформлено",
+    "back_to_my_wish": "Вернуться в Мои желания",
+    "return_sum": "В случае удаления желания, на Ваш счет будет зачислена сумма в размере 85% от собранных средств. На счёт будет зачислено",
+    "if_delete": "В случае удаления желания, оно пропадет из вашего вишлиста"
+  },
+  "category_delete_mw": {
+    "full_delete_title": "Ваши желания будут удалены безвозвратно!",
+    "full_delete_subtitle": "Желания удаляются безвозвратно. На Ваш баланс будет начислено {{sum}} руб с вычетом -15% от собранных средств.",
+    "title": "Вы уверены, что хотите удалить категорию?",
+    "attention": "Внимание, категория удаляется без возможности восстановления!",
+    "attention_can_replace": "Вы можете переместить все желания в главную категорию или удалить категорию полностью.",
+    "full_delete": "Удалить полностью"
   }
 }
