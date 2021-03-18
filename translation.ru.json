@@ -103,6 +103,8 @@
     "wish_deleted_text": "Желание удалено!",
     "category_deleted_text": "Категория удалена!",
     "all_wishes_text": "Все желания",
+    "buy_text": "Купить",
+    "send_gift_text": "Подарить",
     "chars": {
       "rub": "руб",
       "r": "р",
@@ -111,7 +113,8 @@
       "of": "из",
       "sek": "сек",
       "in": "в",
-      "for": "для"
+      "for": "для",
+      "or": "или"
     },
     "friends_action": {
       "request": {
