@@ -692,7 +692,7 @@
     "finded_results": "Найдено {{val}} результатов",
     "in_categories": "в {{val}} категориях",
     "in_category": "В категории",
-    "finded_res": "найдено {val} результат(ов)",
+    "finded_res": "найдено {{val}} результат(ов)",
     "search_everywhere": "Искать везде",
     "finded_variant_word": "Найдено {{val}} вариантов по слову",
     "empty_search": "По вашему запросу ничего не найдено"
