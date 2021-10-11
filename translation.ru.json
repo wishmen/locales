@@ -280,8 +280,8 @@
       "reg": "Регистрация"
     },
     "bottom_info": {
-      "first": "©2020 Wish.men - единый список желаний. <br />Все права защищены",
-      "second": "ООО «Исполнение желаний» <br />ООО «Ispolneniye zhelaniy» <br />ИНН 2130213331 ОГРН 1192130009488",
+      "first": "©{{year}} Wish.men - единый список желаний. <br />Все права защищены",
+      "second": "ООО «Исполнение желаний» <br />ООО «Ispolneniye zhelaniy» <br />ИНН 2130213331 <br/>ОГРН 1192130009488",
       "terms": "Terms & Conditions"
     },
     "foot_info": {
@@ -291,7 +291,7 @@
       "about": "О сервисе",
       "contacts": "Контакты",
       "offerta": "Пользовательское соглашение",
-      "last_row": "<div>©2020 Wish.men - единый список желаний.</div><div>Все права защищены</div><br /><div>ООО «Исполнение желаний»</div><div>ООО «Ispolneniye zhelaniy»</div><div>ИНН 2130213331 ОГРН 1192130009488</div>",
+      "last_row": "<div>©{{year}} Wish.men - единый список желаний.</div><div>Все права защищены</div><br /><div>ООО «Исполнение желаний»</div><div>ООО «Ispolneniye zhelaniy»</div><div>ИНН 2130213331 <br/>ОГРН 1192130009488</div>",
       "nav": {
         "feed": "Обзор",
         "market": "Каталог",
